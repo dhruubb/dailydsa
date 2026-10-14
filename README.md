@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhruubb/dailydsa/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruubb/dailydsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruubb/dailydsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruubb/dailydsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -59,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/dhruubb/dailydsa/tree/main/0238-product-of-array-except-self/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/dhruubb/dailydsa/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 <!---LeetCode Topics End-->
