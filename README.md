@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruubb/dailydsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/dhruubb/dailydsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0739-daily-temperatures](https://github.com/dhruubb/dailydsa/tree/main/0739-daily-temperatures/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhruubb/dailydsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruubb/dailydsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhruubb/dailydsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruubb/dailydsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruubb/dailydsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhruubb/dailydsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruubb/dailydsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhruubb/dailydsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruubb/dailydsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruubb/dailydsa/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
