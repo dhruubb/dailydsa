@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dhruubb/dailydsa/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/dhruubb/dailydsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0739-daily-temperatures](https://github.com/dhruubb/dailydsa/tree/main/0739-daily-temperatures/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/dhruubb/dailydsa/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruubb/dailydsa/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruubb/dailydsa/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhruubb/dailydsa/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -76,4 +77,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/dhruubb/dailydsa/tree/main/0739-daily-temperatures/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/dhruubb/dailydsa/tree/main/1254-number-of-closed-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/dhruubb/dailydsa/tree/main/1254-number-of-closed-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/dhruubb/dailydsa/tree/main/1254-number-of-closed-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/dhruubb/dailydsa/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
